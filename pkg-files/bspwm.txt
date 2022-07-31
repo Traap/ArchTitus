@@ -1,3 +1,18 @@
 bspwm
 --END OF MINIMAL INSTALL--
+alacritty
+bat
+bluez
+exa
+fd
+okular
+powerdevil
+print-manager
+remmina
 sxhkd
+systemsettings
+tmux
+ueberzug
+volumeicon
+w3m
+xclip
